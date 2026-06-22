@@ -8,15 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rahul-chaudhary-403620342/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rahultharu46882@icloud.com">
-  <img src="https://img.shields.io/badge/Email-rahultharu46882%40icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
-</a>
-<a href="https://github.com/Rahultharu064" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Rahultharu064-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 
 </div>
 
