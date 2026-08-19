@@ -8,7 +8,10 @@
 
 <br/>
 
-
+<a href="https://www.linkedin.com/in/rahul-chaudhary-403620342/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rahultharu46882@icloud.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-3693F3?style=flat-square&logo=icloud&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Rahultharu064&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Rahultharu064?label=Followers&style=flat-square&color=blueviolet" />
 
 </div>
 
@@ -21,6 +24,7 @@
 - 🛠️ Comfortable building both frontend interfaces and backend APIs, end to end
 - 🌱 Currently sharpening skills in **Next.js**, **Docker**, and database design (**MySQL** / **PostgreSQL**)
 - ⚡ Always exploring better tooling, cleaner architecture, and deployable side projects
+- 📫 Reach me directly via the links in the **Connect With Me** section below
 
 <br/>
 
@@ -36,6 +40,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 **Backend & Runtime**
 
@@ -72,6 +77,16 @@
 
 </div>
 
+<details>
+<summary>📈 Contribution Activity Graph</summary>
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahultharu064&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+</details>
+
 <br/>
 
 ## 🚀 Featured Projects
@@ -83,17 +98,23 @@
 ### 🏨 [HOTELPMS](https://github.com/Rahultharu064/HOTELPMS)
 A hotel property management system for handling room bookings, guests, billing, and day-to-day hotel operations.
 
+`JavaScript` `Node.js` `MySQL`
+
 </td>
 <td width="33%" valign="top">
 
 ### 🤖 [HospynAi](https://github.com/Rahultharu064/HospynAi)
 An AI-powered application exploring intelligent automation, built with a modern full-stack JavaScript/TypeScript setup.
 
+`TypeScript` `Next.js` `AI`
+
 </td>
 <td width="33%" valign="top">
 
 ### 🛒 [SajhaKirana](https://github.com/Rahultharu064/SajhaKirana)
 An online grocery (kirana) store platform connecting local shops with customers through a full-stack web app.
+
+`JavaScript` `React` `Node.js`
 
 </td>
 </tr>
@@ -106,7 +127,11 @@ An online grocery (kirana) store platform connecting local shops with customers 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Rahultharu064/Rahultharu064/output/github-contribution-grid-snake.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahultharu064/Rahultharu064/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahultharu064/Rahultharu064/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rahultharu064/Rahultharu064/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 </div>
 
 > ⚙️ This animated snake "eats" your contribution graph. It needs a tiny one-time setup — see **`snake-setup-instructions.md`** included alongside this file.
@@ -125,8 +150,6 @@ An online grocery (kirana) store platform connecting local shops with customers 
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rahultharu064&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
